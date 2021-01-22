@@ -1,0 +1,16 @@
+.App{
+  
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.tweet{
+  height: 300px;
+  width: 300px;
+  background-color: #f7f7f7;
+  margin: 20px;
+  border-radius: 30px;
+  text-align: center;
+  flex-direction: column;
+  
+}
